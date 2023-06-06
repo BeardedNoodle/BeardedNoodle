@@ -1,5 +1,8 @@
-### Hi there 👋
+# 👋 Mert Kurt
+**`A passionate software engineer`**
+***`This profile just for fun project if you are looking complete ones please look my serius work profile`***
 
+🔭 I’m currently working on creating new project
 <!--
 **BeardedNoodle/BeardedNoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
