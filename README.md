@@ -5,12 +5,15 @@
 This profile just for fun project if you are looking complete ones please look my serius work profile
 
 ---
+
 🔭 I’m currently working on creating new project
+
 🌱 I’m currently learning **Node.js and Unity**
+
 ---
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px"  href="https://www.python.org" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<a  href="https://www.python.org"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </a>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -22,7 +25,11 @@ This profile just for fun project if you are looking complete ones please look m
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" />
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
 
+### Other
 - 💬 Ask me about ...
+  
 - 📫 How to reach me: ...
+  
 - 😄 Pronouns: ...
+  
 - ⚡ Fun fact: ...
