@@ -1,5 +1,6 @@
 # 👋 Mert Kurt
-**`A passionate software engineer`**
+
+<p align="center">**`A passionate software engineer`**</p>
 This profile just for fun project if you are looking complete ones please look my serius work profile
 
 🔭 I’m currently working on creating new project
