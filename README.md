@@ -34,10 +34,12 @@ This profile just for fun project if you are looking complete ones please look m
 
 
 ### Other
-- 💬 Ask me about ...
+- 💬 Ask me about Code or Tell me your Hobbies i'm searching new hobbies right now.
   
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Email](mert.kurt1994@gmail.com)
   
-- 😄 Pronouns: ...
-  
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: if you saw UFO and identify as a UFO it just becomes FO, unless it has landed then it's simply an O
+
+<details>
+ <summary><h3>👨‍💻 Mert's Coding Journey</h3></summary>
+   It's coming soon
