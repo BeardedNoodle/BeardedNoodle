@@ -28,9 +28,9 @@ This profile just for fun project if you are looking complete ones please look m
  <br />
 
  ### Stats
-<p align="left">
- <a href= "https://streak-stats.demolab.com/?user=BeardedNoodle&theme=gruvbox&border_radius=4.5" /></a>
- </p>
+ ![GitHub Streak](https://streak-stats.demolab.com?user=BeardedNoodle&theme=gruvbox&border_radius=4.5)
+
+
 ### Other
 - 💬 Ask me about ...
   
