@@ -1,11 +1,13 @@
 # 👋 Mert Kurt
 
-<p align="center">**`A passionate software engineer`**</p>
+**`A passionate software engineer`**
+
 This profile just for fun project if you are looking complete ones please look my serius work profile
 
+---
 🔭 I’m currently working on creating new project
 🌱 I’m currently learning **Node.js and Unity**
-
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
