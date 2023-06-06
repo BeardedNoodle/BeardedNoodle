@@ -2,7 +2,7 @@
 
 **`A passionate software engineer`**
 
-This profile just for fun project if you are looking complete ones please look my serius work profile
+This profile just for fun project if you are looking complete ones please look my serius work profile -> [Work Mert](https://github.com/xmekurt)
 
 ---
 
@@ -26,6 +26,8 @@ This profile just for fun project if you are looking complete ones please look m
 <a  href="https://www.mongodb.com/"> <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" /></a>
  </p>
  <br />
+
+---
 
  ### Stats
  ![GitHub Streak](https://streak-stats.demolab.com?user=BeardedNoodle&theme=gruvbox&border_radius=4.5)
