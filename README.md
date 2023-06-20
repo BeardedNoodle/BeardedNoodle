@@ -6,7 +6,7 @@ This profile just for fun project if you are looking complete ones please look m
 
 ---
 
-🔭 I’m currently working on creating new project
+🔭 I’m currently working on creating discord bot and easyToUseTools project.
 
 🌱 I’m currently learning **Node.js and Unity**
 
@@ -34,9 +34,9 @@ This profile just for fun project if you are looking complete ones please look m
 
 
 ### Other
-- 💬 Ask me about Code or Tell me your Hobbies i'm searching new hobbies right now.
+- 💬 Tell me your Hobbies i'm searching new hobbies right now.
   
-- 📫 How to reach me: [Email](mert.kurt1994@gmail.com)
+- 📫 How to reach me: mert.kurt1994@gmail.com
   
 - ⚡ Fun fact: if you saw UFO and identify as a UFO it just becomes FO, unless it has landed then it's simply an O
 
