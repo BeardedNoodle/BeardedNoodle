@@ -34,7 +34,6 @@ This profile just for fun project if you are looking complete ones please look m
 
 
 ### Other
-- 💬 Tell me your Hobbies i'm searching new hobbies right now.
   
 - 📫 How to reach me: mert.kurt1994@gmail.com
   
