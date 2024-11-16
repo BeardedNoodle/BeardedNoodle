@@ -37,7 +37,6 @@ This profile just for fun project if you are looking complete ones please look m
 
 ### Other
 
-- 💬 Send me a message about how i got bitten by a lion
 - 📫 How to reach me: mert.kurt1994@gmail.com
 - ⚡ Fun fact: if you saw UFO and identify as a UFO it just becomes FO, unless it has landed then it's simply an O
 
